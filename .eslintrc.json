@@ -1,0 +1,6 @@
+{
+  "extends": "airbnb-base",
+  "rules": {
+    "no-console": "off" // Allow console statements for now
+  }
+}
